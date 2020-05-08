@@ -34,10 +34,15 @@ body{
 	margin: 0 2em;
 }
 
+a {
+	text-decoration: none;
+}
+
 .start{
 	position: absolute;
 	padding: 15px;
 	background-color: #F5F3F4;
+	color: #000000;
 	left: 370px;
 	top: 432px;
 }
@@ -46,6 +51,7 @@ body{
 	position: absolute;
 	padding: 15px;
 	background-color: #F5F3F4;
+	color: #000000;
 	left:250px;
 	top: 560px;
 }
@@ -54,6 +60,7 @@ body{
 	position: absolute;
 	padding: 15px;
 	background-color: #F5F3F4;
+	color: #000000;
 	left:300px;
 	top: 560px;
 }
@@ -62,6 +69,7 @@ body{
 	position: absolute;
 	padding: 15px;
 	background-color: #F5F3F4;
+	color: #000000;
 	left:320px;
 	top: 560px;
 }
@@ -70,6 +78,7 @@ body{
 	position: absolute;
 	padding: 15px;
 	background-color: #F5F3F4;
+	color: #000000;
 	left:340px;
 	top: 560px;
 }
@@ -78,6 +87,7 @@ body{
 	position: absolute;
 	padding: 15px;
 	background-color: #F5F3F4;
+	color: #000000;
 	left:370px;
 	top: 560px;
 }
@@ -86,6 +96,7 @@ body{
 	position: absolute;
 	padding: 15px;
 	background-color: #F5F3F4;
+	color: #000000;
 	left:400px;
 	top: 400px;
 }
